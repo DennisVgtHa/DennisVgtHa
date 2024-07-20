@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pedagogik programming
-- 📫 How to reach me / dennis.vo.ha@t-online.de
+- 📫 How to reach me / dennis.vo.ha@t-online.de or https://www.linkedin.com/in/dennis-voigt-979438290/
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: ...
 
