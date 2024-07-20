@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dennis , 33 years old.
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me pedagogik programming
+- 💞️ I’m looking to collaborate on pedagogik programming
+- 📫 How to reach me / dennis.vo.ha@t-online.de
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: ...
 
